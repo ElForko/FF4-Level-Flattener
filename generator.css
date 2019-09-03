@@ -1,0 +1,17 @@
+
+.generatorSaveAncDiv /* The div holding the save anchor */
+{
+	height: 30px; /* Constant height, so adding the Save Anchor doesn't change div's height */
+	margin-top: 20px;
+}
+
+
+.generatorSaveAnchor /* The "Click here to Save" anchor */
+{
+	/* Note: This is an "a" element, not a "button" element! */
+
+	background-color: #ddf;
+	border: 1px solid #888;
+	border-radius: 5px;
+	padding: 5px;
+}
